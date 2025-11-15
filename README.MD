@@ -4,7 +4,7 @@ Neste repositório, apresento minha análise estática e estrutural de uma class
 
 ---
 
-## 1. 🕵️ Etapa 1: Inspeção de Código (Análise Estática)
+## 1.  Etapa 1: Inspeção de Código (Análise Estática)
 
 Iniciei o processo com uma revisão manual (inspeção estática) do arquivo `User.java`. O objetivo era identificar "code smells", vulnerabilidades e más práticas de design antes mesmo de executar o código.
 
